@@ -1,0 +1,5 @@
+flake8
+paramiko
+libvirt-python
+mock
+nose
